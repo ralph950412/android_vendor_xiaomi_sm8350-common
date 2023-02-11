@@ -45,9 +45,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "IFAAService",
+	name: "IFAAServiceXiaomism8350",
 	owner: "xiaomi",
-	apk: "proprietary/vendor/app/IFAAService/IFAAService.apk",
+	apk: "proprietary/vendor/app/IFAAServiceXiaomism8350/IFAAServiceXiaomism8350.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
